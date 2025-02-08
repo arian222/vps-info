@@ -38,7 +38,7 @@ Un script avansat pentru monitorizarea și gestionarea serverelor VPS, scris în
 
 1. Clonați repository-ul:
 ```bash
-git clone https://github.com/yourusername/vps-info.git
+git clone https://github.com/arian222/vps-info.git
 ```
 
 2. Acordați permisiuni de execuție:
@@ -100,7 +100,7 @@ Acest proiect este licențiat sub [MIT License](LICENSE)
 ## 👤 Autor
 
 - Nume: ALECS
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@arian222](https://github.com/arian222)
 
 ## 🙏 Mulțumiri
 
